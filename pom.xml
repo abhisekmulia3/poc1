@@ -15,7 +15,7 @@
 <distributionManagement>
     <repository>
         <id>nexus</id>
-        <url>http://192.168.0.8:8081/repository/maven-snapshots/</url>
+        <url>http://192.168.1.252:8081/nexus/content/repositories/abhi/</url>
          </repository>
         </distributionManagement>
    
